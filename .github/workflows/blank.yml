@@ -24,3 +24,9 @@ jobs:
     - name: Run tests
       run: |
         pytest tests.py
+
+    - name: Upload coverage to Coveralls
+      run: |
+        coveralls
+      env:
+        COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_TOKEN }}
