@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/stefastepanova/testing1/badge.svg?branch=main)](https://coveralls.io/github/stefastepanova/testing1?branch=main)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=stefastepanova_testing1&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=stefastepanova_testing1)
+
 # testing1
 
 ### Тест №1: Проверка на два различных действительных корня (позитивный)
